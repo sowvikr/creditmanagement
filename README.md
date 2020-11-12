@@ -1,1 +1,1 @@
-# creditmanagement
+# Credit Management
